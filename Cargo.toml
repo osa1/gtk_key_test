@@ -1,0 +1,10 @@
+[package]
+name = "gtk_key_test"
+version = "0.1.0"
+authors = ["Ömer Sinan Ağacan <omeragacan@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+gdk = "0.14"
+glib = "0.14"
+gtk = "0.14"
